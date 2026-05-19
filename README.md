@@ -14,4 +14,4 @@ Este projeto é um **bot de boas-vindas** para Discord desenvolvido durante um v
 O bot envia automaticamente uma mensagem personalizada em um canal configurado sempre que um novo membro entra no servidor, podendo incluir menção ao usuário, embed com informações do servidor e imagem de boas-vindas.
 
 O vídeo que originou este projeto está disponível no YouTube:
-https://youtu.be/
+https://youtu.be/nSVscBbuZpo
